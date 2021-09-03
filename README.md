@@ -5,7 +5,7 @@
 
 # General Info
 * Game Name: Food Rush
-* Test Project - Unity Block Game - Nguyen Tien Phong - Loocreative
+* Loocreative Test Project - Unity Block Game - Nguyen Tien Phong
 
 # How To Play
 1. Germ size: 8x8
