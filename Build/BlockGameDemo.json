@@ -1,7 +1,7 @@
 {
 "companyName": "Penwyn",
 "productName": "FoodRush",
-"productVersion": "1.0",
+"productVersion": "0.2021.0917.1",
 "dataUrl": "BlockGameDemo.data.unityweb",
 "wasmCodeUrl": "BlockGameDemo.wasm.code.unityweb",
 "wasmFrameworkUrl": "BlockGameDemo.wasm.framework.unityweb",
